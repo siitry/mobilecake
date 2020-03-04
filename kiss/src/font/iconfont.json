@@ -1,0 +1,16 @@
+{
+  "id": "1651913",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "903087",
+      "name": "对勾",
+      "font_class": "duigou",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    }
+  ]
+}
